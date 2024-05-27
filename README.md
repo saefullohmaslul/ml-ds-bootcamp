@@ -1,4 +1,4 @@
-# Learn NumPy
+# Learn NumPy, Pandas, Matplotlib, Sci-kit Learn
 
 ## How to use this notebook
 
