@@ -5,12 +5,12 @@
 So first you can create env based on `environment.yml` file and make prefix as `env`. 
 
 ```bash
-conda env create -f environment.yml --prefix ./env
+conda env create -f environment.yml --prefix ./.conda
 ```
 
 Then you can activate the environment.
 ```bash
-conda activate ./env
+conda activate ./.conda
 ```
 
 Then you can open the notebook.
